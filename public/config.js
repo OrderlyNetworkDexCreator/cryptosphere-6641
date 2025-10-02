@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/cryptic_sphere",
   "VITE_SEO_SITE_NAME": "CryptoSphere",
   "VITE_SEO_SITE_DESCRIPTION": "CryptoSphere DEX is a decentralized exchange built by the CryptoSphere network, delivering secure, fast token swaps, low-fee perpetual trading, and a premium trading experience. Step into the sphere of innovative crypto finance!",
-  "VITE_SEO_SITE_URL": "https://cryptosphere.dex",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/cryptosphere-6641/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@Cryptic_sphere",
