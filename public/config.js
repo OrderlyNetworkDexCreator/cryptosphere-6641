@@ -12,7 +12,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "97aad2ee3a97e0f4b4518e9b60a9bcd3",
   "VITE_APP_NAME": "CryptoSphere",
   "VITE_APP_DESCRIPTION": "CryptoSphere DEX is a decentralized exchange built by the CryptoSphere network, delivering secure, fast token swaps, low-fee perpetual trading, and a premium trading experience. Step into the sphere of innovative crypto finance!",
   "VITE_HAS_PRIMARY_LOGO": "true",
