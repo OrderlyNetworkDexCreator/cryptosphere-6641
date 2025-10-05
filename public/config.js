@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "decentralized exchange, DEX trading, crypto swap platform, blockchain finance, secure token exchange, DeFi trading app, cryptocurrency marketplace, fast crypto trades, gold shield DEX, winged logo exchange, black theme crypto, luxury DeFi platform, anonymous token swap, Ethereum DEX, Solana trading, Binance Smart Chain exchange, cross-chain swaps, low fee trading, yield farming DEX, liquidity pool provider, NFT marketplace DEX, stablecoin exchange, meme coin trading, altcoin swap",
   "VITE_AVAILABLE_LANGUAGES": "en,ko,ru,pt,uk,id,vi,zh,ja,de,tr,pl,nl,it,fr,es",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
